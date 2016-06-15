@@ -18,8 +18,5 @@ public class BeerCupDispenser extends CupDispenser{
             return instance;
         }
 
-
-
-
     public BeerCup dispense(){return new BeerCup();}
 }
